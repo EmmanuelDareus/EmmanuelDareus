@@ -1,4 +1,4 @@
-### Hey, I'm Emmanuel Dareus! 👋
+### Hey, I'm Emmanuel Dareus!! 👋
 
 I'm a software and AI engineer based in Florida who loves bringing ideas to life by writing clean code and teaming up with advanced AI models. I focus on building smart applications that automate workflows and solve real-world problems.
 
